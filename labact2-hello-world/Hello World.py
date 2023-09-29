@@ -1,13 +1,12 @@
-### Variables and Input
+# Variables and Input
 
 name = input("What is your name?")
 age = input("What is your age?")
 age = int(age)
-
 pi = 3.1415
 modulo = 5 % 3
 
-### Variables and Output
+# Output
 
 print(f"Hello, {name}")
 print("Hello,", name)
